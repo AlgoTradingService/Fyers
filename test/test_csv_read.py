@@ -1,6 +1,6 @@
 import os
 
-folder_path = '/home/nikhil/Documents/Fyers/data'
+folder_path = 'PATH_OF_THE_FOLDER'
 def traverse_files_from_a_folder(folder_path):
     """Pass the path of the folder. It will
     return a list of all files contains in
